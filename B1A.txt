@@ -1,0 +1,6 @@
+Novo Branch BR
+
+- excluí arquivo D
+- excluí arquivos C
+- acrescentei estas linhas no arquivo B1A
+- editando também arquivo B1B

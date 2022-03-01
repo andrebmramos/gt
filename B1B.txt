@@ -1,0 +1,4 @@
+Novo Branch BR
+
+- edições nos arquivos B
+- criação do arquivo E
