@@ -1,0 +1,4 @@
+- fiz git checkout ce458
+- obtive situação dettached
+- criei brnach RECOVER
+- editei este arquivo
