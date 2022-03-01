@@ -1,1 +1,9 @@
+Novo Branch BR
+
+- excluí arquivo D
+- excluí arquivos C
+- acrescentei estas linhas no arquivo B1A
+- editando também arquivo B1B
+
 ESTA LINHA SENDO COMMITED EM MASTER, AO MESMO TEMPO QUE ALTERAÇÃOES FORAM FEITAS EM BR
+ESTA LINHA INCLUÍDA APO MESCLAR BR EM MASTER
